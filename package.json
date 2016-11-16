@@ -1,7 +1,7 @@
 {
   "name": "nypl-boilerplate",
   "version": "0.0.0",
-  "description": "A small example for how to use npm, TypeScript, and Mocha",
+  "description": "A small example of how to use npm, TypeScript, and Mocha",
   "repository": "unknown",
   "readme": "unknown",
   "main": "dist/src/index.js",
