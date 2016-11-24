@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "author": "NYPL",
   "description": "A small example of how to use npm, TypeScript, and Mocha",
-  "repository": "unknown",
+  "repository": "https://github.com/NYPL-Simplified/nypl-boilerplate-typescript.git",
   "readme": "unknown",
   "license": "ISC",
 
