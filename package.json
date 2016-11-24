@@ -5,6 +5,7 @@
   "repository": "unknown",
   "readme": "unknown",
   "main": "dist/src/index.js",
+  "typings": "src/index.ts",
   "scripts": {
     "prepublish": "typings install && tsc --p .",
     "test": "mocha --recursive dist/test",
