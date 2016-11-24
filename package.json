@@ -1,21 +1,25 @@
 {
   "name": "nypl-boilerplate",
   "version": "0.0.0",
+  "author": "NYPL",
   "description": "A small example of how to use npm, TypeScript, and Mocha",
   "repository": "unknown",
   "readme": "unknown",
+  "license": "ISC",
+
   "main": "dist/src/index.js",
   "typings": "src/index.ts",
+  
   "scripts": {
     "prepublish": "typings install && tsc --p .",
     "test": "mocha --recursive dist/test",
     "clean": "rm -rf typings node_modules dist"
   },
-  "author": "NYPL",
-  "license": "ISC",
+  
   "dependencies": {
     "typescript": "^2.0.10"
   },
+  
   "devDependencies": {
     "mocha": "^3.1.2"
   }
