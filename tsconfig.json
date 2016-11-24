@@ -17,7 +17,7 @@
   },
   "include": [
     "src/**/*",
-    "test/**.*"
+    "test/**/*"
   ],
   "files": [
     "typings/index.d.ts"
